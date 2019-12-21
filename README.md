@@ -1,5 +1,10 @@
 # DockerComposeExample
 for GCI
+
+## MySQL:
+- Username: root
+- Password: .sweetpwd.
+
 ### RUN:
 - `git clone https://github.com/crowded-geek/DockerComposeExample`
 - `cd DockerComposeExample`

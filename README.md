@@ -25,3 +25,5 @@ docker-compose up:
 mysql:
 
 ![img](https://i.imgur.com/7wIi1RZ.png)
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
